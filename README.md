@@ -1,5 +1,5 @@
 
-1. git clone https://github.com/jasmineNik/shop.git
+1. git clone 
 2. composer install
 3. copy .env.example and create .env file or "copy .env.example .env"
 4. npm install
